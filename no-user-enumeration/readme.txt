@@ -1,9 +1,9 @@
 === No User Enumeration ===
 Contributors: cmontiers
 Donate link: #
-Tags: User Enumeration, Security, WPSCAN, WordPress Vulnerability Scanner
+Tags: User Enumeration, Security, WPSCAN
 Requires at least: 2.9
-Tested up to: 4.9.6
+Tested up to: 5.2.4
 Stable tag: 1.3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -66,3 +66,4 @@ Obviously, is better not choose "admin" as the username because is easiliy guess
 
 == Upgrade Notice ==
 .
+
